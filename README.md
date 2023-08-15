@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chethiya
-Currently live in Perth, WA
+Currently live in Perth, WA.
 Studying Business Information Technology at Curtin University, Perth
 
 
