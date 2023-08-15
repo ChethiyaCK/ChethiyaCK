@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Chethiya
-From Sri Lanka, currently live in Perth, WA
+Currently live in Perth, WA
+Studying Business Information Technology at Curtin University, Perth
+
 
 <!--
 **ChethiyaCK/ChethiyaCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
