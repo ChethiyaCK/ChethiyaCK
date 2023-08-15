@@ -5,6 +5,8 @@ Studying Business Information Technology at Curtin University, Perth. I'm in my 
 - 🌱 I’m currently learning ... Python, SAP, Project Management
 - 👯 I’m looking to collaborate on ... Want to explore different fields related with IT industry
 - ⚡ Fun fact: ... Always happy and want to meet new people in order to learn new things
+- ✈️ Hobbies ... Likes to travel and watch movies
+- 
   
 
 <!--
