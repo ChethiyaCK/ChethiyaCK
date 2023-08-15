@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chethiya
 Currently live in Perth, WA.
-Studying Business Information Technology at Curtin University, Perth. I'm in my 3rd year and expecting to finish my degree in mid 2024. 
+Studying Business Information Technology at Curtin University, Perth. I'm in my 3rd year and expecting to finish my degree in mid 2024.  
 
 
 <!--
@@ -8,7 +8,7 @@ Studying Business Information Technology at Curtin University, Perth. I'm in my 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... abc
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
